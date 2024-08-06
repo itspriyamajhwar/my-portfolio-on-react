@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend developer",
+    "organisation": "Talent media Pvt Ltd",
+    "startDate": "Aug, 2023",
+    "endDate": "Feb 2024",
+    "location": "Delhi",
+    "experiences": [
+     
+      "yuhuu.in",
+      "astro.yuhuu.in"
+    ],
+    "imageSrc": "company/telnetmeida.png"
+  }
+]
